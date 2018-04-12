@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+This website is responsive with navbar, hero unit, content and footer.
 
-You can use the [editor on GitHub](https://github.com/theParthe/learn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Navbar turns into a hamburger icon for Tablet and Mobiles.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The hero unit of the website has been developed with Bootstrap Carousel.
 
-### Markdown
+The content of the website has been developed with Bootstrap Cards and the layout has been developed with Bootstrap Grid system
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The content of the page is a four column unit for large desktop devices and for tablets it will turn into two column units and for mobile devices the content will be one column unit.
 
-```markdown
-Syntax highlighted code block
+The website passed w3c html validation
 
-# Header 1
-## Header 2
-### Header 3
+The website has google fonts
 
-- Bulleted
-- List
+The css styles has been written in external css files and inline styles were never used.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theParthe/learn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The website has font-awesome icons for social app icons.

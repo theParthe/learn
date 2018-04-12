@@ -1,0 +1,54 @@
+* {
+  font-family: 'Itim', cursive;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.navbar-brand img {
+  width: 50px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  width: 5%;
+}
+
+.carousel-item img {
+  height: 500px;
+}
+
+.card {
+  margin-top: 10px;
+  width: 100%;
+}
+
+footer {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.social {
+  font-size: 2em;
+  margin: 10px;
+}
+
+.facebook {
+  color: #3B5998;
+}
+
+.instagram {
+  color: #d6249f;
+}
+
+.twitter {
+  color: #0084b4;
+}
